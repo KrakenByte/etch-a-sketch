@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.square {
+    background-color: black;
+    padding: 0px;
+    margin:0px;
+}
+
+.deactiveated {
+    background-color: black;
+}
+.activated {
+    background-color: white;
+}
